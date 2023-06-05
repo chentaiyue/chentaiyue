@@ -14,5 +14,5 @@
 ### My Contributions
 ![](https://raw.githubusercontent.com/chentaiyue/chentaiyue/main/assets/github-contribution-grid-snake.svg)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=chentaiyue&show_icons=true&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chentaiyue&hide_border=true">
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chentaiyue&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chentaiyue&hide_border=true">
